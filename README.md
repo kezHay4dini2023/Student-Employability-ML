@@ -35,10 +35,10 @@ By focusing on soft skills and presentation qualities, the dataset emphasizes ho
 
 <p> <img src='score\score.png' alt="Feature Importance"> </p>
 
-- We see that the overall accurary of the model is 90 percent. with a precision of 91 percent, a recall of 91 percent and an F1 of 91.6 percent. 
+- in training this model. we utilized random forest. We see that the overall accurary of the model is 90 percent. with a precision of 91 percent, a recall of 91 percent and an F1 of 91.6 percent. 
 
 <p> <img src='images\FeatureImportnace.png' alt="Feature Importance"> </p>
 
-- we see that Mental Alertness and General Apperance weighs heavy. which accounts to 17.37 and 15.18 percent when it comes to making a choice whether someones is employable or less employable. this shows that there is a wide gap in importnace of mental alertness compared to communication skills (9.7). 
+- we see that Mental Alertness and General Apperance weighs heavy. which accounts to 17.37 and 15.18 percent when it comes to making a choice whether someones is employable or less employable. this shows that there is a wide gap in importamce of mental alertness compared to communication skills (9.7). 
  
 </div>
